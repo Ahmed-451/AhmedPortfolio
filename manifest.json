@@ -1,0 +1,27 @@
+{
+  "name": "Mohammed Ahmed Ali Portfolio",
+  "short_name": "Ahmed Ali Portfolio",
+  "description": "Student at P.E.S. College of Engineering, Ex-Baoiam Intern. Portfolio showcasing projects and professional journey.",
+  "start_url": "/Ahmed Ali/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1772d0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/pfp.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/pfp.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "professional", "technology"],
+  "lang": "en-US",
+  "scope": "/Ahmed Ali/"
+}
